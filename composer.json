@@ -1,0 +1,15 @@
+{
+    "name": "program1/client",
+    "description": "API for WooCommerce",
+    "license": "MTI",
+    "authors": [
+        {
+            "name": "Leonardo",
+            "email": "Leonardo_FRSilva@hotmail.com"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.0",
+        "spatie/async": "^1.5"
+    }
+}
